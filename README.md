@@ -1,4 +1,4 @@
-# CAPE
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># CAPE
 ## Cluster Automation for Pivotal Education
 <img src="https://github.com/dbbaskette/cape/raw/gh-pages/images/cape.jpg" width="200"> 
 
